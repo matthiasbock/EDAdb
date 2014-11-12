@@ -7,35 +7,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="70.866142"
-   height="141.73228"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="RaspberryPi-P1.svg">
+   width="177.16534"
+   height="354.33069"
+   id="svg2">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="-43.831441"
-     inkscape:cy="136.29674"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="mm"
-     inkscape:window-width="1280"
-     inkscape:window-height="973"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -49,478 +26,477 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-910.62986)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.79567897;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2985"
-       width="28.204321"
-       height="115.13345"
-       x="22.671701"
-       y="923.83777" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,930.73977 -10.606602,0 -0.53033,0"
-       id="path4313"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,930.20943 -10.606602,0 -0.53033,0"
-       id="path4313-7"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,939.30333 -10.606602,0 -0.53033,0"
-       id="path4313-0"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,938.77299 -10.606602,0 -0.53033,0"
-       id="path4313-7-8"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,947.86686 -10.606602,0 -0.53033,0"
-       id="path4313-4"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,947.33652 -10.606602,0 -0.53033,0"
-       id="path4313-7-7"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,956.43042 -10.606602,0 -0.53033,0"
-       id="path4313-5"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,955.90008 -10.606602,0 -0.53033,0"
-       id="path4313-7-2"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,964.99395 -10.606602,0 -0.53033,0"
-       id="path4313-8"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,964.46361 -10.606602,0 -0.53033,0"
-       id="path4313-7-6"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,973.55751 -10.606602,0 -0.53033,0"
-       id="path4313-74"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,973.02717 -10.606602,0 -0.53033,0"
-       id="path4313-7-1"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,982.12104 -10.606602,0 -0.53033,0"
-       id="path4313-55"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,981.5907 -10.606602,0 -0.53033,0"
-       id="path4313-7-0"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,990.68459 -10.606602,0 -0.53033,0"
-       id="path4313-76"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,990.15425 -10.606602,0 -0.53033,0"
-       id="path4313-7-21"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,999.24814 -10.606602,0 -0.53033,0"
-       id="path4313-85"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,998.7178 -10.606602,0 -0.53033,0"
-       id="path4313-7-79"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,1007.8117 -10.606602,0 -0.53033,0"
-       id="path4313-46"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,1007.2813 -10.606602,0 -0.53033,0"
-       id="path4313-7-76"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,1016.3752 -10.606602,0 -0.53033,0"
-       id="path4313-3"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,1015.8449 -10.606602,0 -0.53033,0"
-       id="path4313-7-4"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,1024.9388 -10.606602,0 -0.53033,0"
-       id="path4313-1"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,1024.4084 -10.606602,0 -0.53033,0"
-       id="path4313-7-9"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.804194,1033.5023 -10.606602,0 -0.53033,0"
-       id="path4313-6"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.253125,1032.972 -10.606602,0 -0.53033,0"
-       id="path4313-7-5"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="931.62366"
-       id="text4482"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484"
-         x="24.218407"
-         y="931.62366"
-         style="font-size:3px">+3.3V</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="42.368076"
-       y="931.62366"
-       id="text4482-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-7"
-         x="42.368076"
-         y="931.62366"
-         style="font-size:3px">+5V</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="940.18518"
-       id="text4482-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-1"
-         x="24.218407"
-         y="940.18518"
-         style="font-size:3px">GPIO2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="42.368076"
-       y="940.18518"
-       id="text4482-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-4"
-         x="42.368076"
-         y="940.18518"
-         style="font-size:3px">+5V</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="948.74677"
-       id="text4482-57"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-0"
-         x="24.218407"
-         y="948.74677"
-         style="font-size:3px">GPIO3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="42.116123"
-       y="948.74677"
-       id="text4482-27"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-5"
-         x="42.116123"
-         y="948.74677"
-         style="font-size:3px">GND</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="957.30835"
-       id="text4482-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-6"
-         x="24.218407"
-         y="957.30835"
-         style="font-size:3px">GPIO4</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="37.786045"
-       y="957.30835"
-       id="text4482-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-75"
-         x="37.786045"
-         y="957.30835"
-         style="font-size:3px">GPIO14</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="965.86987"
-       id="text4482-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-51"
-         x="24.218407"
-         y="965.86987"
-         style="font-size:3px">GND</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="37.879795"
-       y="965.86987"
-       id="text4482-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-9"
-         x="37.879795"
-         y="965.86987"
-         style="font-size:3px">GPIO15</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="974.4314"
-       id="text4482-59"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-67"
-         x="24.218407"
-         y="974.4314"
-         style="font-size:3px">GPIO17</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="37.822666"
-       y="974.4314"
-       id="text4482-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-50"
-         x="37.822666"
-         y="974.4314"
-         style="font-size:3px">GPIO18</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="982.99298"
-       id="text4482-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-04"
-         x="24.218407"
-         y="982.99298"
-         style="font-size:3px">GPIO27</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="42.116123"
-       y="982.99298"
-       id="text4482-62"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-62"
-         x="42.116123"
-         y="982.99298"
-         style="font-size:3px">GND</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="991.55457"
-       id="text4482-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-19"
-         x="24.218407"
-         y="991.55457"
-         style="font-size:3px">GPIO22</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="37.857822"
-       y="991.55457"
-       id="text4482-85"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-65"
-         x="37.857822"
-         y="991.55457"
-         style="font-size:3px">GPIO23</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="1000.1161"
-       id="text4482-853"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-60"
-         x="24.218407"
-         y="1000.1161"
-         style="font-size:3px">+3.3V</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="37.786045"
-       y="1000.1161"
-       id="text4482-81"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-3"
-         x="37.786045"
-         y="1000.1161"
-         style="font-size:3px">GPIO24</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="1008.6776"
-       id="text4482-22"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-8"
-         x="24.218407"
-         y="1008.6776"
-         style="font-size:3px">GPIO10</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="42.116123"
-       y="1008.6776"
-       id="text4482-39"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-73"
-         x="42.116123"
-         y="1008.6776"
-         style="font-size:3px">GND</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="1017.2392"
-       id="text4482-68"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-2"
-         x="24.218407"
-         y="1017.2392"
-         style="font-size:3px">GPIO9</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="37.879795"
-       y="1017.2392"
-       id="text4482-82"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-92"
-         x="37.879795"
-         y="1017.2392"
-         style="font-size:3px">GPIO25</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="1025.8008"
-       id="text4482-01"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-03"
-         x="24.218407"
-         y="1025.8008"
-         style="font-size:3px">GPIO11</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="39.732822"
-       y="1025.8008"
-       id="text4482-20"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-08"
-         x="39.732822"
-         y="1025.8008"
-         style="font-size:3px">GPIO8</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="24.218407"
-       y="1034.3623"
-       id="text4482-593"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-87"
-         x="24.218407"
-         y="1034.3623"
-         style="font-size:3px">GND</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="39.784092"
-       y="1034.3623"
-       id="text4482-58"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-00"
-         x="39.784092"
-         y="1034.3623"
-         style="font-size:3px">GPIO7</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="34.120361"
-       y="921.82916"
-       id="text4482-03"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4484-93"
-         x="34.120361"
-         y="921.82916"
-         style="font-size:5px">P1</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect4772"
-       width="2.75"
-       height="5.8125"
-       x="19.5"
-       y="17.357285"
-       transform="translate(0,910.62986)" />
+     transform="translate(0,-698.03144)"
+     id="layer1">
+    <g
+       transform="translate(7,5)"
+       id="g3064">
+      <rect
+         width="78.941681"
+         height="322.24951"
+         x="43.367287"
+         y="715.10657"
+         id="rect2985"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.02596474;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         id="g3261">
+        <path
+           d="m 151.35366,732.94035 -29.68704,0 -1.48435,0"
+           id="path4313-7"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="98.495895"
+           y="736.89868"
+           id="text4482-2"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="98.495895"
+             y="736.89868"
+             id="tspan4484-7"
+             style="font-size:8.39676476px">+5V</tspan></text>
+      </g>
+      <g
+         id="g3266">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1"
+             style="font-size:8.39676476px">GPIO2</tspan></text>
+      </g>
+      <g
+         id="g3271">
+        <path
+           d="m 151.35366,756.90909 -29.68704,0 -1.48435,0"
+           id="path4313-7-8"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="98.495895"
+           y="760.86169"
+           id="text4482-5"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="98.495895"
+             y="760.86169"
+             id="tspan4484-4"
+             style="font-size:8.39676476px">+5V</tspan></text>
+      </g>
+      <g
+         id="g3281">
+        <path
+           d="m 43.738122,782.36212 -29.687047,0 -1.484352,0"
+           id="path4313-4"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="784.82489"
+           id="text4482-57"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="784.82489"
+             id="tspan4484-0"
+             style="font-size:8.39676476px">GPIO3</tspan></text>
+      </g>
+      <g
+         id="g3276">
+        <path
+           d="m 151.35366,780.87774 -29.68704,0 -1.48435,0"
+           id="path4313-7-7"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="97.790695"
+           y="784.82489"
+           id="text4482-27"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="97.790695"
+             y="784.82489"
+             id="tspan4484-5"
+             style="font-size:8.39676476px">GND</tspan></text>
+      </g>
+      <g
+         id="g3291">
+        <path
+           d="m 43.738122,806.33085 -29.687047,0 -1.484352,0"
+           id="path4313-5"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="808.78809"
+           id="text4482-1"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="808.78809"
+             id="tspan4484-6"
+             style="font-size:8.39676476px">GPIO4</tspan></text>
+      </g>
+      <g
+         id="g3286">
+        <path
+           d="m 151.35366,804.84647 -29.68704,0 -1.48435,0"
+           id="path4313-7-2"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="85.67115"
+           y="808.78809"
+           id="text4482-6"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="85.67115"
+             y="808.78809"
+             id="tspan4484-75"
+             style="font-size:8.39676476px">GPIO14</tspan></text>
+      </g>
+      <g
+         id="g3301">
+        <path
+           d="m 43.738122,830.2995 -29.687047,0 -1.484352,0"
+           id="path4313-8"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="832.75116"
+           id="text4482-3"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="832.75116"
+             id="tspan4484-51"
+             style="font-size:8.39676476px">GND</tspan></text>
+      </g>
+      <g
+         id="g3296">
+        <path
+           d="m 151.35366,828.81512 -29.68704,0 -1.48435,0"
+           id="path4313-7-6"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="85.933548"
+           y="832.75116"
+           id="text4482-4"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="85.933548"
+             y="832.75116"
+             id="tspan4484-9"
+             style="font-size:8.39676476px">GPIO15</tspan></text>
+      </g>
+      <g
+         id="g3311">
+        <path
+           d="m 43.738122,854.26823 -29.687047,0 -1.484352,0"
+           id="path4313-74"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="856.71417"
+           id="text4482-59"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="856.71417"
+             id="tspan4484-67"
+             style="font-size:8.39676476px">GPIO17</tspan></text>
+      </g>
+      <g
+         id="g3306">
+        <path
+           d="m 151.35366,852.78385 -29.68704,0 -1.48435,0"
+           id="path4313-7-1"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="85.773651"
+           y="856.71417"
+           id="text4482-0"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="85.773651"
+             y="856.71417"
+             id="tspan4484-50"
+             style="font-size:8.39676476px">GPIO18</tspan></text>
+      </g>
+      <g
+         id="g3321">
+        <path
+           d="m 43.738122,878.23688 -29.687047,0 -1.484352,0"
+           id="path4313-55"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="880.67737"
+           id="text4482-7"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="880.67737"
+             id="tspan4484-04"
+             style="font-size:8.39676476px">GPIO27</tspan></text>
+      </g>
+      <g
+         id="g3316">
+        <path
+           d="m 151.35366,876.7525 -29.68704,0 -1.48435,0"
+           id="path4313-7-0"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="97.790695"
+           y="880.67737"
+           id="text4482-62"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="97.790695"
+             y="880.67737"
+             id="tspan4484-62"
+             style="font-size:8.39676476px">GND</tspan></text>
+      </g>
+      <g
+         id="g3331">
+        <path
+           d="m 43.738122,902.20558 -29.687047,0 -1.484352,0"
+           id="path4313-76"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="904.64056"
+           id="text4482-8"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="904.64056"
+             id="tspan4484-19"
+             style="font-size:8.39676476px">GPIO22</tspan></text>
+      </g>
+      <g
+         id="g3326">
+        <path
+           d="m 151.35366,900.7212 -29.68704,0 -1.48435,0"
+           id="path4313-7-21"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="85.872047"
+           y="904.64056"
+           id="text4482-85"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="85.872047"
+             y="904.64056"
+             id="tspan4484-65"
+             style="font-size:8.39676476px">GPIO23</tspan></text>
+      </g>
+      <g
+         id="g3341">
+        <path
+           d="m 43.738122,926.17429 -29.687047,0 -1.484352,0"
+           id="path4313-85"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="928.60364"
+           id="text4482-853"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="928.60364"
+             id="tspan4484-60"
+             style="font-size:8.39676476px">+3.3V</tspan></text>
+      </g>
+      <g
+         id="g3336">
+        <path
+           d="m 151.35366,924.68991 -29.68704,0 -1.48435,0"
+           id="path4313-7-79"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="85.67115"
+           y="928.60364"
+           id="text4482-81"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="85.67115"
+             y="928.60364"
+             id="tspan4484-3"
+             style="font-size:8.39676476px">GPIO24</tspan></text>
+      </g>
+      <g
+         id="g3351">
+        <path
+           d="m 43.738122,950.14302 -29.687047,0 -1.484352,0"
+           id="path4313-46"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="952.56665"
+           id="text4482-22"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="952.56665"
+             id="tspan4484-8"
+             style="font-size:8.39676476px">GPIO10</tspan></text>
+      </g>
+      <g
+         id="g3346">
+        <path
+           d="m 151.35366,948.65847 -29.68704,0 -1.48435,0"
+           id="path4313-7-76"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="97.790695"
+           y="952.56665"
+           id="text4482-39"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="97.790695"
+             y="952.56665"
+             id="tspan4484-73"
+             style="font-size:8.39676476px">GND</tspan></text>
+      </g>
+      <g
+         id="g3361">
+        <path
+           d="m 43.738122,974.11159 -29.687047,0 -1.484352,0"
+           id="path4313-3"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="976.52985"
+           id="text4482-68"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="976.52985"
+             id="tspan4484-2"
+             style="font-size:8.39676476px">GPIO9</tspan></text>
+      </g>
+      <g
+         id="g3356">
+        <path
+           d="m 151.35366,972.62732 -29.68704,0 -1.48435,0"
+           id="path4313-7-4"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="85.933548"
+           y="976.52985"
+           id="text4482-82"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="85.933548"
+             y="976.52985"
+             id="tspan4484-92"
+             style="font-size:8.39676476px">GPIO25</tspan></text>
+      </g>
+      <g
+         id="g3371">
+        <path
+           d="m 43.738122,998.08043 -29.687047,0 -1.484352,0"
+           id="path4313-1"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="1000.493"
+           id="text4482-01"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="1000.493"
+             id="tspan4484-03"
+             style="font-size:8.39676476px">GPIO11</tspan></text>
+      </g>
+      <g
+         id="g3366">
+        <path
+           d="m 151.35366,996.59588 -29.68704,0 -1.48435,0"
+           id="path4313-7-9"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="91.120026"
+           y="1000.493"
+           id="text4482-20"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="91.120026"
+             y="1000.493"
+             id="tspan4484-08"
+             style="font-size:8.39676476px">GPIO8</tspan></text>
+      </g>
+      <g
+         id="g3381">
+        <path
+           d="m 43.738122,1022.049 -29.687047,0 -1.484352,0"
+           id="path4313-6"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="1024.4561"
+           id="text4482-593"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="1024.4561"
+             id="tspan4484-87"
+             style="font-size:8.39676476px">GND</tspan></text>
+      </g>
+      <g
+         id="g3376">
+        <path
+           d="m 151.35366,1020.5647 -29.68704,0 -1.48435,0"
+           id="path4313-7-5"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="91.263527"
+           y="1024.4561"
+           id="text4482-58"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="91.263527"
+             y="1024.4561"
+             id="tspan4484-00"
+             style="font-size:8.39676476px">GPIO7</tspan></text>
+      </g>
+      <text
+         x="75.411186"
+         y="709.48462"
+         id="text4482-03"
+         xml:space="preserve"
+         style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+           x="75.411186"
+           y="709.48462"
+           id="tspan4484-93"
+           style="font-size:13.99460793px">P1</tspan></text>
+      <g
+         id="g3255">
+        <path
+           d="m 43.738122,734.42473 -29.687047,0 -1.484352,0"
+           id="path4313"
+           style="fill:none;stroke:#000000;stroke-width:2.79892159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           x="47.696392"
+           y="736.89868"
+           id="text4482"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="736.89868"
+             id="tspan4484"
+             style="font-size:8.39676476px">+3.3V</tspan></text>
+        <rect
+           width="7.6970344"
+           height="16.268732"
+           x="34.489941"
+           y="726.72034"
+           id="rect4772"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.79892159;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+    </g>
   </g>
 </svg>

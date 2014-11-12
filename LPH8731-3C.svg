@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="287.00787"
+   height="258.66141"
+   id="svg3419">
+  <defs
+     id="defs3421" />
+  <metadata
+     id="metadata3424">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-793.70048)"
+     id="layer1">
+    <g
+       transform="translate(-57.5,69)"
+       id="g4853">
+      <rect
+         width="214.96046"
+         height="214.96046"
+         x="104.6518"
+         y="50.98188"
+         transform="translate(0,698.03147)"
+         id="rect3440"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         transform="translate(63.035595,7.456929)"
+         id="g3266">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1"
+             style="font-size:8.39676476px">CS</tspan></text>
+      </g>
+      <g
+         transform="translate(63.035595,21.523615)"
+         id="g3266-3">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0-4"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9-9"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1-3"
+             style="font-size:8.39676476px">RESET</tspan></text>
+      </g>
+      <g
+         transform="translate(63.035595,35.59028)"
+         id="g3266-9">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0-6"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9-1"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1-7"
+             style="font-size:8.39676476px">A0</tspan></text>
+      </g>
+      <g
+         transform="translate(63.035595,49.656946)"
+         id="g3266-5">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0-0"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9-7"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1-8"
+             style="font-size:8.39676476px">SCLK</tspan></text>
+      </g>
+      <g
+         transform="translate(63.035595,63.723627)"
+         id="g3266-58">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0-45"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9-3"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1-5"
+             style="font-size:8.39676476px">MOSI</tspan></text>
+      </g>
+      <g
+         transform="translate(63.035595,77.790308)"
+         id="g3266-92">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0-3"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9-8"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1-33"
+             style="font-size:8.39676476px">VDD (+3.3V)</tspan></text>
+      </g>
+      <g
+         transform="translate(63.035595,91.856973)"
+         id="g3266-54">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0-1"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9-75"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1-0"
+             style="font-size:8.39676476px">GND</tspan></text>
+      </g>
+      <g
+         transform="translate(63.035595,105.92365)"
+         id="g3266-50">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0-7"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9-4"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1-36"
+             style="font-size:8.39676476px">LED_ANODE1 (+3.3V)</tspan></text>
+      </g>
+      <g
+         transform="translate(63.035595,119.99032)"
+         id="g3266-2">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0-46"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9-87"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1-56"
+             style="font-size:8.39676476px">LED_KATHODE (GND)</tspan></text>
+      </g>
+      <g
+         transform="translate(63.035595,134.057)"
+         id="g3266-23">
+        <path
+           d="m 43.738122,758.39347 -29.687047,0 -1.484352,0"
+           id="path4313-0-2"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="47.696392"
+           y="760.86169"
+           id="text4482-9-99"
+           xml:space="preserve"
+           style="font-size:11.19568634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="47.696392"
+             y="760.86169"
+             id="tspan4484-1-9"
+             style="font-size:8.39676476px">LED_ANODE2 (+3.3V)</tspan></text>
+      </g>
+      <text
+         x="-937.69135"
+         y="259.97357"
+         transform="matrix(0,-1,1,0,0,0)"
+         id="text4849"
+         xml:space="preserve"
+         style="font-size:26.1755619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+           x="-937.69135"
+           y="259.97357"
+           id="tspan4851">LPH8731-3C</tspan></text>
+    </g>
+  </g>
+</svg>
