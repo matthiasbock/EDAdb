@@ -1,5 +1,39 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="106" height="71">
-<path fill="none" stroke="#000" d="m67,50-32-18v36zm36,0H4m63-18v36M46,25l18-18m7,7-18,18"/>
-<path d="m57,9 10-5-5,10m2,2 10-5-5,10"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="106"
+   height="71"
+   id="svg2">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <path
+     d="M 103,50 4,50 M 67,32 67,68 M 46,25 64,7 m 7,7 -18,18"
+     id="path4"
+     style="fill:none;stroke:#000000" />
+  <path
+     d="M 57,9 67,4 62,14 m 2,2 10,-5 -5,10"
+     id="path6" />
+  <path
+     d="m 35.118272,32.339539 0,35.421888 31.879699,-17.812149 z"
+     id="path2989"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>
