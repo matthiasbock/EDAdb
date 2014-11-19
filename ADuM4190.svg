@@ -25,239 +25,247 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-852.36218)"
-     id="layer1">
-    <rect
-       width="104.5"
-       height="145"
-       x="47.75"
-       y="876.11218"
-       id="rect2985"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
+  <rect
+     width="104.5"
+     height="152.81798"
+     x="47.75"
+     y="21.013706"
+     id="rect2985"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     x="54.757812"
+     y="45.160072"
+     id="text3755"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="54.757812"
-       y="891.44128"
-       id="text3755"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="54.757812"
-         y="891.44128"
-         id="tspan3757"
-         style="font-size:10px">VDD2</tspan></text>
-    <text
+       y="45.160072"
+       id="tspan3757"
+       style="font-size:10px">VDD1</tspan></text>
+  <text
+     x="54.274414"
+     y="62.267189"
+     id="text3755-9"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="54.274414"
+       y="62.267189"
+       id="tspan3757-4"
+       style="font-size:10px">GND1</tspan></text>
+  <text
+     x="54.757812"
+     y="79.374359"
+     id="text3755-8"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="54.757812"
-       y="908.5484"
-       id="text3755-9"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="54.757812"
-         y="908.5484"
-         id="tspan3757-4"
-         style="font-size:10px">GND2</tspan></text>
-    <text
-       x="54.757812"
-       y="925.65558"
-       id="text3755-8"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="54.757812"
-         y="925.65558"
-         id="tspan3757-8"
-         style="font-size:10px">VREG2</tspan></text>
-    <text
-       x="54.757812"
-       y="942.7627"
-       id="text3755-2"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="54.757812"
-         y="942.7627"
-         id="tspan3757-45"
-         style="font-size:10px">REFOUT</tspan></text>
-    <text
-       x="54.757812"
-       y="959.86987"
-       id="text3755-5"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="54.757812"
-         y="959.86987"
-         id="tspan3757-1"
-         style="font-size:10px">IN+</tspan></text>
-    <text
-       x="54.757812"
-       y="976.97699"
-       id="text3755-7"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="54.757812"
-         y="976.97699"
-         id="tspan3757-11"
-         style="font-size:10px">IN-</tspan></text>
-    <text
-       x="54.757812"
-       y="994.08417"
-       id="text3755-52"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="54.757812"
-         y="994.08417"
-         id="tspan3757-7"
-         style="font-size:10px">COMP</tspan></text>
-    <text
-       x="54.757812"
-       y="1011.1913"
-       id="text3755-6"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="54.757812"
-         y="1011.1913"
-         id="tspan3757-14"
-         style="font-size:10px">GND2</tspan></text>
-    <text
-       x="118.68571"
-       y="891.44128"
-       id="text3755-23"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="118.68571"
-         y="891.44128"
-         id="tspan3757-2"
-         style="font-size:10px">VDD1</tspan></text>
-    <text
-       x="117.98259"
-       y="908.5484"
-       id="text3755-21"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="117.98259"
-         y="908.5484"
-         id="tspan3757-6"
-         style="font-size:10px">GND1</tspan></text>
-    <text
-       x="113.04118"
-       y="925.65558"
-       id="text3755-85"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="113.04118"
-         y="925.65558"
-         id="tspan3757-76"
-         style="font-size:10px">VREG1</tspan></text>
-    <text
-       x="100.56071"
-       y="942.7627"
-       id="text3755-1"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="100.56071"
-         y="942.7627"
-         id="tspan3757-89"
-         style="font-size:10px">REFOUT1</tspan></text>
-    <text
-       x="132.43082"
-       y="959.86987"
-       id="text3755-27"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="132.43082"
-         y="959.86987"
-         id="tspan3757-9"
-         style="font-size:10px">NC</tspan></text>
-    <text
-       x="106.69352"
-       y="976.97699"
-       id="text3755-54"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="106.69352"
-         y="976.97699"
-         id="tspan3757-3"
-         style="font-size:10px">EAOUT2</tspan></text>
-    <text
-       x="112.03043"
-       y="994.08417"
-       id="text3755-12"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="112.03043"
-         y="994.08417"
-         id="tspan3757-33"
-         style="font-size:10px">EAOUT</tspan></text>
-    <text
-       x="117.98259"
-       y="1011.1913"
-       id="text3755-4"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="117.98259"
-         y="1011.1913"
-         id="tspan3757-113"
-         style="font-size:10px">GND1</tspan></text>
-    <path
-       d="m 152.25,888.86219 16.75,0"
-       id="path3938"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 152.25,905.82647 16.75,0"
-       id="path3938-8"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 152.25,922.79076 16.75,0"
-       id="path3938-7"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 152.25,939.75504 16.75,0"
-       id="path3938-4"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 152.25,956.71933 16.75,0"
-       id="path3938-2"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 152.25,973.68361 16.75,0"
-       id="path3938-77"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 152.25,990.6479 16.75,0"
-       id="path3938-9"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 152.25,1007.6122 16.75,0"
-       id="path3938-3"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 31.375,889.73718 16.75,0"
-       id="path3938-1"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 31.375,906.70146 16.75,0"
-       id="path3938-8-9"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 31.375,923.66575 16.75,0"
-       id="path3938-7-8"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 31.375,940.63003 16.75,0"
-       id="path3938-4-6"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 31.375,957.59432 16.75,0"
-       id="path3938-2-5"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 31.375,974.5586 16.75,0"
-       id="path3938-77-0"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 31.375,991.52289 16.75,0"
-       id="path3938-9-2"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 31.375,1008.4872 16.75,0"
-       id="path3938-3-8"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  </g>
+       y="79.374359"
+       id="tspan3757-8"
+       style="font-size:10px">VREG1</tspan></text>
+  <text
+     x="53.854492"
+     y="96.481476"
+     id="text3755-2"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="53.854492"
+       y="96.481476"
+       id="tspan3757-45"
+       style="font-size:10px">REF<tspan
+   id="tspan3038"
+   style="font-size:65.00091553%;baseline-shift:sub">OUT</tspan>1</tspan></text>
+  <text
+     x="53.854492"
+     y="113.58866"
+     id="text3755-5"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="53.854492"
+       y="113.58866"
+       id="tspan3757-1"
+       style="font-size:10px">NC</tspan></text>
+  <text
+     x="53.854492"
+     y="130.69577"
+     id="text3755-7"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="53.854492"
+       y="130.69577"
+       id="tspan3757-11"
+       style="font-size:10px">EA<tspan
+   id="tspan3036"
+   style="font-size:65.00091553%;baseline-shift:sub">OUT</tspan>2</tspan></text>
+  <text
+     x="53.854492"
+     y="147.80295"
+     id="text3755-52"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="53.854492"
+       y="147.80295"
+       id="tspan3757-7"
+       style="font-size:10px">EA<tspan
+   id="tspan3215"
+   style="font-size:65.00091553%;baseline-shift:sub">OUT</tspan>1</tspan></text>
+  <text
+     x="54.274414"
+     y="164.91006"
+     id="text3755-6"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="54.274414"
+       y="164.91006"
+       id="tspan3757-14"
+       style="font-size:10px">GND1</tspan></text>
+  <path
+     d="m 152.25,42.580977 16.75,0"
+     id="path3938"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 152.25,59.545257 16.75,0"
+     id="path3938-8"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 152.25,76.509547 16.75,0"
+     id="path3938-7"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 152.25,93.473827 16.75,0"
+     id="path3938-4"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 152.25,110.43812 16.75,0"
+     id="path3938-2"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 152.25,127.4024 16.75,0"
+     id="path3938-77"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 152.25,144.36669 16.75,0"
+     id="path3938-9"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 152.25,161.33099 16.75,0"
+     id="path3938-3"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 31.375,43.455967 16.75,0"
+     id="path3938-1"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 31.375,60.420247 16.75,0"
+     id="path3938-8-9"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 31.375,77.384537 16.75,0"
+     id="path3938-7-8"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 31.375,94.348817 16.75,0"
+     id="path3938-4-6"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 31.375,111.31311 16.75,0"
+     id="path3938-2-5"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 31.375,128.27739 16.75,0"
+     id="path3938-77-0"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 31.375,145.24168 16.75,0"
+     id="path3938-9-2"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 31.375,162.20599 16.75,0"
+     id="path3938-3-8"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     x="118.83395"
+     y="45.410053"
+     id="text3755-4"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="118.83395"
+       y="45.410053"
+       id="tspan3757-77"
+       style="font-size:10px">VDD2</tspan></text>
+  <text
+     x="118.13083"
+     y="62.51717"
+     id="text3755-9-4"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="118.13083"
+       y="62.51717"
+       id="tspan3757-4-9"
+       style="font-size:10px">GND2</tspan></text>
+  <text
+     x="113.18942"
+     y="79.624336"
+     id="text3755-8-4"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="113.18942"
+       y="79.624336"
+       id="tspan3757-8-6"
+       style="font-size:10px">VREG2</tspan></text>
+  <text
+     x="108.16677"
+     y="96.731453"
+     id="text3755-2-3"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="108.16677"
+       y="96.731453"
+       id="tspan3757-45-9"
+       style="font-size:10px">REF<tspan
+   id="tspan3038-6"
+   style="font-size:65.00091553%;baseline-shift:sub">OUT</tspan>2</tspan></text>
+  <text
+     x="128.67282"
+     y="113.83865"
+     id="text3755-5-8"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="128.67282"
+       y="113.83865"
+       id="tspan3757-1-0"
+       style="font-size:10px">IN+</tspan></text>
+  <text
+     x="132.87204"
+     y="130.94576"
+     id="text3755-7-6"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="132.87204"
+       y="130.94576"
+       id="tspan3757-11-7"
+       style="font-size:10px">IN-</tspan></text>
+  <text
+     x="117.23727"
+     y="148.05293"
+     id="text3755-52-4"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="117.23727"
+       y="148.05293"
+       id="tspan3757-7-2"
+       style="font-size:10px">COMP</tspan></text>
+  <text
+     x="118.13083"
+     y="165.16005"
+     id="text3755-6-8"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="118.13083"
+       y="165.16005"
+       id="tspan3757-14-5"
+       style="font-size:10px">GND2</tspan></text>
+  <path
+     d="m 60.563312,28.833499 a 2.6824245,2.6824245 0 0 1 -5.364849,0 2.6824245,2.6824245 0 1 1 5.364849,0 z"
+     id="path3090"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
 </svg>
