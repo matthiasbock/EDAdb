@@ -29,11 +29,11 @@
      transform="translate(-474,-277.6414)"
      id="layer1">
     <path
-       d="m 533.35352,387.0739 -25,0"
+       d="m 533.35352,387.0739 -29.5426,0"
        id="path5041"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       d="m 533.35352,337.07386 -25,0"
+       d="m 533.35352,337.07386 -29.5426,0"
        id="path5043"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
@@ -45,15 +45,15 @@
        id="path11146"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       d="m 573.35352,412.07386 0,-25"
+       d="m 573.35352,418.19748 0,-31.12362"
        id="path12035"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       d="m 573.35352,337.07386 0,-25"
+       d="m 573.35352,337.07386 0,-30.48992"
        id="path12037"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <g
-       transform="translate(16.353516,6.432456)"
+       transform="translate(11.200438,6.432456)"
        id="g1988">
       <path
          d="m 532,326.6414 0,8"
@@ -65,7 +65,7 @@
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <path
-       d="m 552.35352,387.07386 -8,0"
+       d="m 547.20044,387.07386 -8,0"
        id="path13036"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
