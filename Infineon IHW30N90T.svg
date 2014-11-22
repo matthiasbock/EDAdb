@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="60.869999"
+   height="29.870001"
+   id="svg4923">
+  <g
+     transform="translate(0,-1022.4923)"
+     id="layer1">
+    <path
+       d="m 10.8125,4.0262499 a 1.03125,1.03125 0 1 1 -2.0625,0 1.03125,1.03125 0 1 1 2.0625,0 z"
+       transform="matrix(3.4359341,0,0,3.4359341,15.152756,1029.7242)"
+       id="path5550-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       d="m 10.8125,4.0262499 a 1.03125,1.03125 0 1 1 -2.0625,0 1.03125,1.03125 0 1 1 2.0625,0 z"
+       transform="matrix(3.4359341,0,0,3.4359341,-4.1269241,1029.7242)"
+       id="path5550-0"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       d="m 10.8125,4.0262499 a 1.03125,1.03125 0 1 1 -2.0625,0 1.03125,1.03125 0 1 1 2.0625,0 z"
+       transform="matrix(3.4359341,0,0,3.4359341,-23.428597,1029.7242)"
+       id="path5550"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       d="m 193,473.86218 a 29.5,29.5 0 1 1 -59,0 29.5,29.5 0 1 1 59,0 z"
+       transform="matrix(0.09008408,0,0,0.09008408,-4.549613,1000.8708)"
+       id="path4931"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       d="m 193,473.86218 a 29.5,29.5 0 1 1 -59,0 29.5,29.5 0 1 1 59,0 z"
+       transform="matrix(0.09008408,0,0,0.09008408,14.725978,1000.8708)"
+       id="path4931-7"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       d="m 193,473.86218 a 29.5,29.5 0 1 1 -59,0 29.5,29.5 0 1 1 59,0 z"
+       transform="matrix(0.09008408,0,0,0.09008408,34.001568,1000.8708)"
+       id="path4931-3"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       width="53.625"
+       height="13.875"
+       x="3.25"
+       y="1036.4873"
+       id="rect8003"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       x="7.125"
+       y="1031.6123"
+       id="text8005"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="7.125"
+         y="1031.6123"
+         id="tspan8007"
+         style="font-size:8px">G</tspan></text>
+    <text
+       x="26.628906"
+       y="1031.6123"
+       id="text8005-9"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="26.628906"
+         y="1031.6123"
+         id="tspan8007-6"
+         style="font-size:8px">C</tspan></text>
+    <text
+       x="45.878906"
+       y="1031.7256"
+       id="text8005-3"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="45.878906"
+         y="1031.7256"
+         id="tspan8007-8"
+         style="font-size:8px">E</tspan></text>
+  </g>
+</svg>
